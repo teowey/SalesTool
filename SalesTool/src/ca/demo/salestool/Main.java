@@ -11,5 +11,6 @@ public class Main {
 
 	private static void dispplayGreeting() {
 		System.out.println("HELLO HAPPY SALES PEOPLE!");
+		System.out.println("New line to print: TEST 1 2 3");
 	}
 }
