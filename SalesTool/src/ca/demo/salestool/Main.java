@@ -10,7 +10,11 @@ public class Main {
 	}
 
 	private static void dispplayGreeting() {
-		System.out.println("HELLO HAPPY SALES PEOPLE!");
+		System.out.println("Hello Happy Sales People!");
+		System.out.println("This app shows sales data");
+		System.out.println("-------------------------");
+		
 		System.out.println("New line to print: TEST 1 2 3");
+		
 	}
 }
